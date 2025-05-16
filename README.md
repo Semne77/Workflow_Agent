@@ -3,7 +3,14 @@
 This project is an AI-driven application that automates the process of filling out job application forms using a candidate's resume. It combines **document parsing**, **semantic search**, and **language model reasoning**, and includes a **voice feedback interface** powered by Whisper.
 
 ---
+### 🔧 System Setup (macOS)
 
+Make sure you install the following system dependencies:
+
+```bash
+brew install tesseract
+brew install poppler
+```
 ## 🔍 Features
 
 - 📄 **Resume Parsing with LlamaParse**  
