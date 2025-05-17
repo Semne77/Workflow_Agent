@@ -9,14 +9,7 @@ With support for full-page screenshot input, this tool makes it easy to fill out
 - **OpenAI API key** (for GPT-4 and embeddings)  
 - **LlamaParse API key** (available at [llama-cloud.com](https://llama-cloud.com))
 ---
-### 🔧 System Setup (macOS)
 
-Make sure you install the following system dependencies:
-
-```bash
-brew install tesseract
-brew install poppler
-```
 ## 🔍 Features
 
 - 📄 **Resume Parsing with LlamaParse**  
