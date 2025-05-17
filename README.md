@@ -2,6 +2,9 @@
 
 This project is an AI-driven application that automates the process of filling out job application forms using a candidate's resume. It combines **document parsing**, **semantic search**, and **language model reasoning**, and includes a **voice feedback interface** powered by Whisper.
 
+With support for full-page screenshot input, this tool makes it easy to fill out any job application, even if it’s not in a standard format.
+
+
 ---
 ### 🔧 System Setup (macOS)
 
