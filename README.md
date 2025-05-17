@@ -4,7 +4,11 @@ This project is an AI-driven application that automates the process of filling o
 
 With support for full-page screenshot input, this tool makes it easy to fill out any job application, even if it’s not in a standard format.
 
+⚠️ To use this project, you will need:
 
+An OpenAI API key (for GPT-4 and embeddings)
+
+A LlamaParse API key from llama-cloud.com
 ---
 ### 🔧 System Setup (macOS)
 
@@ -55,5 +59,4 @@ brew install poppler
 
 ---
 
-## 📁 Folder Structure
 
