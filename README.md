@@ -6,9 +6,8 @@ With support for full-page screenshot input, this tool makes it easy to fill out
 
 ⚠️ To use this project, you will need:
 
-An OpenAI API key (for GPT-4 and embeddings)
-
-A LlamaParse API key from llama-cloud.com
+- **OpenAI API key** (for GPT-4 and embeddings)  
+- **LlamaParse API key** (available at [llama-cloud.com](https://llama-cloud.com))
 ---
 ### 🔧 System Setup (macOS)
 
