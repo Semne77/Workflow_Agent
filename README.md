@@ -39,7 +39,7 @@ brew install poppler
 ## 🚀 How It Works
 
 1. **Upload your resume** and a **job application form** PDF.
-2. The form is parsed using OCR to detect the fields that need to be filled.
+2. The form is parsed using Optical Character Recognition to detect the fields that need to be filled.
 3. Each field is turned into a question and answered by querying the vectorized resume using GPT-4.
 4. A final result is generated: a list of fields filled in with concise, factual responses.
 5. Optionally, the user can provide feedback — either by typing or **speaking into the microphone**.
@@ -64,7 +64,7 @@ brew install poppler
 ├── Agent.ipynb                             # Main notebook for running the AI workflow
 ├── README.md                               # Project description and setup instructions
 ├── SemyonTsyrenov_Resume_MachineLearning   # Sample resume PDF (replaceable with any other)
-├── helper.py                               # Helper functions for parsing, OCR, and matching
+├── helper.py                               # Helper functions for parsing, Optical Character Recognition, and matching
 ├── job_form.pdf                            # Sample application form (can be replaced with any form)
 ├── requirements.txt                        # Python dependencies list
 ```
@@ -72,7 +72,7 @@ brew install poppler
 ### 🔄 Replaceable Files
 
 - job_form.pdf
-  You can replace this with any job application form (PDF or screenshot). The system will parse and extract text using OCR.
+  You can replace this with any job application form (PDF or screenshot). The system will parse and extract text using Optical Character Recognition.
 - SemyonTsyrenov_Resume_MachineLearning
   This is a sample resume. You can upload your own resume in PDF format to test or use the application.
 
