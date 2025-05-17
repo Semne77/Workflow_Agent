@@ -19,7 +19,7 @@ brew install poppler
 - 📄 **Resume Parsing with LlamaParse**  
   Automatically extracts structured information from uploaded PDF resumes using LlamaParse and OpenAI embeddings.
 
-- 📑 **Application Form OCR**  
+- 📑 **Application Form Parsing**  
   Converts scanned PDF application forms into readable text using `pytesseract` and `pdf2image`.
 
 - 💬 **Field Matching with GPT-4**  
