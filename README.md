@@ -67,6 +67,8 @@ brew install poppler
 ├── job_form.pdf                            # Sample application form (can be replaced with any form)
 ├── requirements.txt                        # Python dependencies list
 
+---
+
 ### 🔄 Replaceable Files
 
 - job_form.pdf
