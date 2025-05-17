@@ -58,4 +58,20 @@ brew install poppler
 
 ---
 
+## 📁 Project Folder Structure
+
+├── Agent.ipynb                             # Main notebook for running the AI workflow
+├── README.md                               # Project description and setup instructions
+├── SemyonTsyrenov_Resume_MachineLearning   # Sample resume PDF (replaceable with any other)
+├── helper.py                               # Helper functions for parsing, OCR, and matching
+├── job_form.pdf                            # Sample application form (can be replaced with any form)
+├── requirements.txt                        # Python dependencies list
+
+### 🔄 Replaceable Files
+
+- job_form.pdf
+  You can replace this with any job application form (PDF or screenshot). The system will parse and extract text using OCR.
+- SemyonTsyrenov_Resume_MachineLearning
+  This is a sample resume. You can upload your own resume in PDF format to test or use the application.
+
 
